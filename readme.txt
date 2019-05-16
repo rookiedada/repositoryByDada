@@ -6,3 +6,4 @@ check git diff.
 haha woyoubc
 Creating a new branch is quick.
 我实在master上面做的更改
+我改了一些Bug
